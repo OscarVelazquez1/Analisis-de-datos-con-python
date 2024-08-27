@@ -1,2 +1,2 @@
 # Analisis-de-datos-con-python
-Trabajos realizados en la matería Analisis de datos con Python
+Una serie de trabajos(cómo tareas, exámenes) que realicé en la UEA de Análisis de datos con Python
