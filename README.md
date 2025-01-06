@@ -1,5 +1,6 @@
 ## Analisis de datos con python
 Este repositorio contiene una serie de trabajos realizados de Análisis de Datos. Los trabajos se enfocan en el manejo y análisis de diversas bases de datos, como registros de delitos, estadísticas de nacimientos, entre otros. Utilicé Python y la biblioteca Pandas para explorar, transformar y extraer información valiosa de los conjuntos de datos.
+Cada trabajo se 
 
 ### Contenido del repositorio
 **Exploración de datos**: inspección inicial de los DataFrames, visualización de datos faltantes y limpieza de datos.
@@ -9,3 +10,11 @@ Este repositorio contiene una serie de trabajos realizados de Análisis de Datos
 **Análisis descriptivo**: estadísticas descriptivas, detección de valores atípicos y generación de insights clave.
 
 **Visualizaciones (si aplica)**: gráficos para entender mejor los datos (por ejemplo, histogramas, gráficos de barras o de línea).
+
+Los trabajos están organizados en carpetas, según el dataset o tema analizado. A continuación, se describe la estructura del repositorio:
+
+Analisis-de-datos-con-python/    
+├── walmart_mex/  
+│   ├── WALMEX.csv         # Dataset utilizado para este análisis  
+│   └── Walmex.ipynb       # Análisis  
+└── 
